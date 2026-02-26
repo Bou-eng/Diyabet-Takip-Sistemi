@@ -43,22 +43,16 @@ Bu proje, diyabet hastalarının günlük sağlık verilerini (kan şekeri ölç
 
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/eb9b94bb-c6d4-4f45-91ef-21edab72444a" />
 <img width="19<img width="1920" height="1080" alt="Doktor panrl listele" src="https://github.com/user-attachments/assets/561d9fea-4a52-45f7-881a-868f33bab5a5" />
-20" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/7102c974-8f45-4b2c-936a-44646d585afb" />
-![Uploading Doktor panrl listele.png…]()
 <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/e026358d-b336-44e5-b573-cb9f965f0d72" />
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/36a92436-c398-475b-91d9-72fe5e070680" />
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/3051ab7c-74ee-4359-8b17-c5785a2f1d55" />
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-att<img width="1920" height="1080" alt="hasta giris" src="https://github.com/user-attachments/assets/cabc0902-4506-45d4-964e-4423c5888304" />
-achments/assets/70d98131-5eed-428f-8f10-45ddc5f5ca7b" />
-![Uploading hasta giris.png…]()
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/816e05f3-2311-466d-aee7-73a380da5898" />
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/baee3775-3668-4708-80ed-c1051a276edf" />
 <img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/8c255df0-08d2-43b8-a70f-05e2f7be3ec5" />
 <img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/22193aa1-8940-415d-beba-80025c1147b1" />
 <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/07ece16b-9dc0-4fd8-8be1-39d0dab689ab" />
 <img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/0ae9c043-a749-4e21-bee0-bbfeab5dabe2" />
 <img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/1d1961ee-8d67-4281-bb7e-7f6d57173a9c" />
-<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/14d5eac4-f1a9-4691-8475-99eb8dbcce9f" />
 
 
 ## 📜 Lisans
