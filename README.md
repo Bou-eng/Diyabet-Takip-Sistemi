@@ -1,6 +1,6 @@
 # 🩺 Diyabet Takip Sistemi
 
-Bu proje, diyabet hastalarının günlük sağlık verilerini (kan şekeri ölçümleri, diyet, egzersiz ve semptom takibi) kayıt altına alarak hem hastaya hem de doktora düzenli geri bildirim sağlayan bir **masaüstü uygulamasıdır**.
+Bu proje, diyabet hastalarının günlük sağlık verilerini (kan şekeri ölçümleri, diyet, egzersiz ve semptom takibi) kayıt altına alarak hem hastaya hem de doktora düzenli geri bildirim sağlayan bir **Desktop App**.
 
 ## 🚀 Özellikler
 
